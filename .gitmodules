@@ -1,4 +1,4 @@
 [submodule "exts/dbcsr"]
 	path = exts/dbcsr
-	url = https://github.com/cp2k/dbcsr
+	url = https://gitee.com/soulreaperli/dbcsr.git
 	branch = master
